@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import { useEffect, useState } from 'react';
-import './App.css';
 import { Navbar } from './components/Navbar';
 import { Links } from './components/Links';
 import { Projects } from './components/Projects';
